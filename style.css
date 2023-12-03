@@ -1,0 +1,224 @@
+@charset "UTF-8";
+/* CSS Document */
+header {
+  width: 100%;
+  height: 70px;
+  background-color: #871916;
+}
+.logo {
+  padding-top: 15px;
+}
+.menu {
+  padding-top: 20px
+}
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  font-family: 'Anton', sans-serif;
+}
+.menu ul li a {
+  padding: 5px 20px;
+  text-decoration: none;
+  color: #E7D7BF;
+  text-transform: uppercase
+}
+.menu ul li a:hover {
+  border-bottom: 4px solid #4f7253
+}
+.social {
+  padding-top: 5px;
+  color: #E7D7BF;
+  display: flex
+}
+.icon {
+  padding: 16px;
+}
+.icon a {
+  color: #E7D7BF;
+}
+.mucluc{
+	margin-left: 25px;
+	font-family: 'Anton', sans-serif;
+
+}
+.mucluc a{
+	text-decoration: none;
+color:#871916
+}
+.mucluc a:hover{
+	border-bottom: 4px solid #4f7253
+
+}
+.banner {
+  width: 100%;
+  min-height: 300px;
+  position: relative
+}
+.caption {
+  position: absolute;
+  width: 40%;
+  left: 5%;
+  top: 20%;
+}
+.opacity {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  top: 0%
+}
+.text-xanh {
+  color: #4f7253
+}
+.text-do {
+  color: #871916
+}
+.anton {
+  font-family: 'Anton', sans-serif;
+}
+.red-border {
+  width: 634px;
+  min-height: 412px;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.green-border {
+  border: 1px solid #4f7253;
+  border-radius: 25px;
+  padding: 2px 12px
+}
+.list {
+  text-transform: uppercase;
+  font-family: 'Anton', sans-serif;
+  color: #4f7253
+}
+.font-24 {
+  font-size: 24pt
+}
+.mt-5 {
+  margin-top: 5px
+}
+.font-48 {
+  font-size: 48pt
+}
+.font-16 {
+  font-size: 16pt
+}
+.pl-15 {
+  padding-left: 15px
+}
+.ml-100 {
+  margin-left: 205px
+}
+.docthem {
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  color: #e7d7bf;
+  text-align: center;
+  line-height: 5px
+}
+.title{}
+.frame{
+  background-color: #871916;
+  border: 1px solid #871916;
+  border-radius: 23px;
+  height: 45px;
+	text-align: center;
+	padding-top: 8px;
+		width:60%
+
+}
+.frame a{
+  text-decoration: none;
+}
+.frame:hover{
+  background-color: #4f7253;
+	 border: 1px solid #4f7253;
+}
+.frame a:hover{
+	color:#e2b171
+}
+.frame1{
+  background-color: #871916;
+  border: 1px solid #871916;
+  border-radius: 23px;
+  height: 45px;
+	text-align: center;
+	padding-top: 8px;
+}
+.frame1 a{
+  text-decoration: none;
+}
+.frame1:hover{
+  background-color: #4f7253;
+	 border: 1px solid #4f7253;
+}
+.frame1 a:hover{
+	color:#e2b171}
+.phongtrao {
+  position: relative
+}
+.title-pt {
+  width: 80%;
+  margin-top: -100px;
+  margin-left: 15px;
+  font-size: 12pt;
+}
+.title-pt a{
+text-decoration: none;
+color:#4f7253}
+.title-pt a:hover{
+			border-bottom: 2px solid #871916
+}
+.logo-cuoi {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Anton', sans-serif;
+  color: #871916;
+  font-size: 36px;
+  margin-top: 10px;
+  margin-bottom: 10px
+}
+.lh-10 {
+  line-height: 40px
+}
+.f-size-12 {
+  font-size: 16px
+}
+.menu-duoi{
+	margin-left:0
+}
+.menu-duoi ul{
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+.menu-duoi ul li a{
+	text-decoration: none;
+	color: #871916;
+	text-transform: uppercase;}
+
+.menu-duoi ul li a:hover{
+	color: #4f7253
+}
+.form-control {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #871916;
+  font-family: 'Playfair Display', serif;
+  color: #871916;
+}
+.tieude-moiviet a{ text-decoration: none;
+color:#871916}
+.tieude-moiviet a:hover{
+		border-bottom: 2px solid #4f7253
+}
+.canh-giua {
+justify-content: center;
+display: flex;
+flex-direction: column}
